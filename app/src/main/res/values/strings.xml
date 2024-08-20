@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First App</string>
+    <string name="google_details">Google LLC is an American multinational corporation and technology company focusing on online advertising, search engine technology, cloud computing, computer software, quantum computing, e-commerce, consumer electronics, and artificial intelligence (AI). It has been referred to as the most powerful company in the world and is one of the worlds most valuable brands</string>
+    <string name="goggle_address">Mountain View, California, US"</string>
+    <string name="google_url"><u>google.com</u></string>
+
+</resources>
